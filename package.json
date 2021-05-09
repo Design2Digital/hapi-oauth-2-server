@@ -1,6 +1,6 @@
 {
-  "name": "hapi-oauth2-server-plugin",
-  "version": "0.4.0",
+  "name": "hapi-v20-oauth2-server-plugin",
+  "version": "0.1.0",
   "description": "Hapijs wrapper for node oauth2-server package",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/getapper/hapi-oauth-2-server.git"
+    "url": "git+https://github.com/Design2Digital/hapi-oauth-2-server.git"
   },
   "keywords": [
     "hapi",
